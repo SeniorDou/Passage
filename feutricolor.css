@@ -1,0 +1,18 @@
+.red{
+    margin: 50px;
+    width:100px;
+    height:100px;
+    padding: 50px;
+    background: rgb(224, 13, 13);
+    border-radius: 50%;
+}
+
+.green{
+    margin: 50px;
+    width:100px;
+    height:100px;
+    padding: 50px;
+    background: rgb(14, 182, 70);
+    border-radius: 50%;
+
+}
